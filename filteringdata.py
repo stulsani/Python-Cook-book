@@ -27,6 +27,6 @@ counts = [ 0, 3, 10, 4, 1, 7, 6, 1]
 
 more5 = [n > 5 for n in counts]
 
-ans = list(compress(addresses,more5))
+ans = list(com                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              press(addresses,more5))
 
 print(ans)
