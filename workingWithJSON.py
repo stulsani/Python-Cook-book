@@ -9,7 +9,7 @@ data = {
 
 json_str = json.dumps(data)
 
-pprint(json_str)
+print(json_str)
 
 data2 = json.loads(json_str)
 
